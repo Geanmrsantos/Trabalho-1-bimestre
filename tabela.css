@@ -1,0 +1,13 @@
+.img{
+    width: 22px;
+    height: auto;
+    vertical-align: middle;
+    
+}
+.Centralizar-grupos{
+    margin: 0 auto;
+}
+.texto-ao-centro{
+    text-align: center;
+    display: inline-table;
+}
